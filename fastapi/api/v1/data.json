@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "title": "abstract vortex",
+        "prompt": "abstract_vortex_swallowing_a_beautiful_scenery",
+        "img":"https://cdn.midjourney.com/10724f8d-986e-4537-9e0d-41a6917a3ac1/0_3_384_N.webp"
+    },
+
+    {
+        "id": 2,
+        "title": "Fish",
+        "prompt": "A design of various types of birds and fishes surrounded by a blue plane, in the style of repetitive rephotography, editorial illustrations, realist detail, lith printing, contemporary indian art, golden age illustrations",
+        "img":"https://cdn.midjourney.com/0a5ffdcf-3ef2-44fd-8d0a-4c1ff1f0b393/0_3.png"
+    },
+
+    {
+        "id": 3,
+        "title": "Battle ship",
+        "prompt": "Battle of multiple ships in 1800, impressionist claude monet type",
+        "img":"https://cdn.midjourney.com/0d3bf53a-d9e7-4bd8-aada-0e41247a5a38/0_3.png"
+    },
+
+    {
+        "id": 4,
+        "title": "Brimstone and fire",
+        "prompt": "Brimstone and fire strinking a futuristic city, view from the top",
+        "img":"https://cdn.midjourney.com/f5d71df5-9ad2-4d71-a3f8-ead2f3bdeb1f/0_2.png"
+    },
+
+    {
+        "id": 5,
+        "title": "Mermaid",
+        "prompt": "An energetic illustration of a daring mermaid named Marina swimming through a vibrant underwater world. Marina is a fearless explorer with flowing emerald - green hair and shimmering scales that catch the ambient light of the underwater environment. The scene is filled with a burst of vibrant colors, showcasing the diverse marine life and coral reefs. The composition should capture Marina in a dynamic full - body pose, arms outstretched, as she rides the current with a look of exhilaration on her face. The wide - angle lens perspective adds depth to the underwater world, making the viewer feel immersed in the adventure. The ambient lighting reveals the beauty of the environment while maintaining a sense of mystery in the depths. Overall, convey the energetic and adventurous mood of Marina's underwater escapades, inviting viewers to join her in exploring the wonders beneath the waves.",
+        "img":"https://cdn.midjourney.com/d1c9c3e2-1089-4e9e-9cdc-f0f1bf6fc754/0_1.png"
+    },
+
+    {
+        "id": 6,
+        "title": "Huskies",
+        "prompt": "Ogawa ishida/ iya wada wofves and huskies by amedeo hao, in the style of linocut prints, optical illusion, realist detail, light white and black, repeating pattern, political illustration, detailed skies",
+        "img":"https://cdn.midjourney.com/caae0625-d635-43e2-8660-962b14a53876/0_2.png"
+    },
+
+    {
+        "id": 7,
+        "title": "Storm ",
+        "prompt": "Storm created by lightning of various dark colors, high quality photography",
+        "img":"https://cdn.midjourney.com/81a6de0c-c104-43bc-bcbe-5c4437fc2e1a/0_1.png"
+    },
+
+    {
+        "id": 8,
+        "title": "Sunset ",
+        "prompt": "The man is at the shore watching the sunset, in the style of anime art, exotic landscapes, high resolution, light red and teal, lush landscape backgrounds, uhd image, pixel art",
+        "img":"https://cdn.midjourney.com/21aeef69-6def-48d6-93d2-1ebdee3c7409/0_1.png"
+    },
+
+    {
+        "id": 9,
+        "title": "Wanderlust ",
+        "prompt": "Wanderlust, birds eye view --s 750",
+        "img":"https://cdn.midjourney.com/f4211b6b-250e-49cf-a734-8ca25c16495e/0_1.png"
+    },
+
+    {
+        "id": 10,
+        "title": "Floating Building",
+        "prompt": "Building floating in the sky, sculpture, on the moon, studio lights, black and white, calm mood, birds - eye view",
+        "img":"https://cdn.midjourney.com/ef2a3444-505f-4505-bbe3-27c9f80cb564/0_2.png"
+    }
+
+]
+
