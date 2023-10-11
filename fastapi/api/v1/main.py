@@ -1,13 +1,22 @@
 
 from fastapi import FastAPI, HTTPException
 from shema   import Data
-
+from fastapi.middleware.cors import CORSMiddleware
 
 
 app = FastAPI(
      title= "Gallery-API",
      description="The Gallery-API is a web service designed to deliver a combination of images and associated prompts to inspire creativity, learning, and idea generation. It serves as a valuable resource for a wide range of applications, including education, art, writing, brainstorming, and more.",
      version="1.0"
+)
+
+origins = [
+     'http://localhost:3000'
+]
+
+app.add_middleware(
+     CORSMiddleware,
+     allow_origins=origins,
 )
 
 # data = [
