@@ -2,7 +2,7 @@ import React from 'react'
 
 const Api = () => {
   return (
-    <div>
+    <div id='Api' className='bg-purple-100'>
        <iframe 
       src="http://localhost:8000/docs"
       title="Swagger UI"

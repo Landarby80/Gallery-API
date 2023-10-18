@@ -18,11 +18,11 @@ const Home = () => {
              </div>
              <div className='flex-0 md:flex sm:flex px-2 py-3 cursor-pointer text-2xl
                 font-bold text-white hover:text-blue-900 tracking-wide'>
-                Gallery
+                 <a href="#Gallery"> Gallery </a> 
              </div>
-             <div className='flex-0 md:flex sm:flex px-2 py-3 cursor-pointer text-2xl
+             <div  className='flex-0 md:flex sm:flex px-2 py-3 cursor-pointer text-2xl
                 font-bold text-white hover:text-blue-900 tracking-wide'>
-                API
+               <a href="#Api"> API </a>  
              </div>
             
         </header>
